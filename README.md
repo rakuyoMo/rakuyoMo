@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> Always funny Always Foolish
+> Always funny, Always Foolish, Don't be too serious.
 
 My name is **鸡翅**, you can also call me **rakuyo**. I am an iOS software engineer.
 
