@@ -6,11 +6,11 @@
 
 public enum Rakuyo: String {
 
-    case 🤩 = "My name is 鸡翅(rakuyo). A typical Gemini."
+    case 🤩 = "My name is 鸡翅(rakuyo). A typical Gemini"
     
-    case 📱 = "I am an iOS software engineer working in Tianjin."
+    case 📱 = "I am an iOS software engineer working in Tianjin"
     
-    case ⌨️ = "I use Swift, Objective-C, Shell, Ruby, etc."
+    case ⌨️ = "I use Swift, Objective-C, Shell, Ruby, etc"
     
     case ✨ = "I am passionate about user interface and user experience."
     
