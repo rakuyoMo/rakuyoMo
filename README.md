@@ -16,6 +16,6 @@ public enum Rakuyo: String {
     
     case 📧 = "You can contact me through the issues in this repo, or rakuyo.mo@gmail.com"
     
-    case 🧚🏻 = "Fun fact: This is my girlfriend [盖](https://github.com/xxgail) ❤ . She is very charming and always cute"
+    case 🧝🏻‍♀️ = "Fun fact: This is my girlfriend [盖](https://github.com/xxgail) ❤ . She is very charming and always cute"
 }
 ```
