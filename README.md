@@ -1,12 +1,21 @@
 ### Hi there 👋
 
-> Always funny, Always Foolish, Don't be too serious.
+```swift
 
-My name is **鸡翅**, you can also call me **rakuyo**. I am an iOS software engineer.
+/* Always funny, Always Foolish, Don't be too serious. */
 
-- 🔭 I’m currently working on a software company in Tianjin, using **swift** for development
-- 🌱 I’m currently learning more iOS and swift development skills
-- 💬 Ask me about iOS development
-- 📫 How to reach me: rakuyo.mo@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: This is my girlfriend [盖盖大可爱](https://github.com/xxgail) ❤ . She is very charming and always cute
+public enum Rakuyo: String {
+    
+    case 🤪 = "My name is 鸡翅, you can also call me rakuyo. A typical Gemini."
+    
+    case 👨🏼‍💻 = "I am an iOS software engineer working in Tianjin."
+    
+    case ⌨️ = "I use Swift, Objective-C, Shell, Ruby, etc."
+    
+    case ✨ = "I am passionate about user interface and attach great importance to user experience."
+    
+    case 📫 = "You can contact me through the issues in this repo, or rakuyo.mo@gmail.com"
+    
+    case ⚡ = "Fun fact: This is my girlfriend [盖盖大可爱](https://github.com/xxgail) ❤ . She is very charming and always cute"
+}
+```
