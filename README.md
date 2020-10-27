@@ -12,7 +12,7 @@ public enum Rakuyo: String {
     
     case ⌨️ = "I use Swift, Objective-C, Shell, Ruby, etc"
     
-    case ✨ = "I am passionate about user interface and user experience."
+    case ✨ = "I am passionate about user interface and user experience"
     
     case 💬 = "Talk via issues in this repo, or email: rakuyo.mo@gmail.com"
     
